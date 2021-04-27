@@ -1,0 +1,8 @@
+#
+#Tue Apr 27 13:41:40 UTC 2021
+URL=https\://services.odata.org/Experimental/OData/OData.svc
+Name=NorthWind
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication
+Description=Northwind Connection
